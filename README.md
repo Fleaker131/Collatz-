@@ -1,0 +1,2 @@
+# Collatz-
+Collatz number algorithim
